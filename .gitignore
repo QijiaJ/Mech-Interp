@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.log
+*.aux
+*.out
+*.synctex.gz
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+.venv/
+artifacts/
+outputs/
+
